@@ -1,6 +1,6 @@
-# Lumo App Store website
+# Leben in Deutschland App Store website
 
-This folder is a complete static GitHub Pages site for **Lumo: Leben in Deutschland**.
+This folder is a complete static GitHub Pages site for **Leben in Deutschland**.
 
 ## Publish with GitHub Pages
 
